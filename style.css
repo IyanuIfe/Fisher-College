@@ -1,0 +1,22 @@
+body{
+    height: 1000px;
+    width: 1200px;
+    background-color: black;
+}
+
+h3{
+    text-indent:50px;
+    color: blue;
+}
+
+p{
+    text-indent: 150px;
+    font-weight: bold;
+    color: brown;
+    }
+
+    #sales{
+        position: absolute;
+        top: 43px;
+        left: 700px;
+    }
